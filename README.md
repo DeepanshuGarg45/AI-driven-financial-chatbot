@@ -10,7 +10,6 @@ This repository contains the source code, testing notebooks, and data files for 
 - [Usage](#usage)
 - [Data Files](#data-files)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
