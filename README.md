@@ -1,7 +1,3 @@
-Here’s a detailed `README.md` file for your GitHub repository:
-
----
-
 # AI-Driven Financial Chatbot
 
 This repository contains the source code, testing notebooks, and data files for an AI-powered chatbot designed to handle various financial queries. The chatbot can interact with users, provide financial insights, and deliver personalized advice using machine learning models.
